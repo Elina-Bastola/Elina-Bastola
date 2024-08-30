@@ -1,7 +1,9 @@
 <div align="center">
 <img height="100%" width="100%" src="https://github.com/Elina-Bastola/Elina-Bastola/blob/main/banner.png.png" alt="MYSELF" />
 </div>
-# 💫 About Me:
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <h1 align=center> 💫 About Me: </h1>
 <h1 align="center">Hi 👋! My name is Elina and I'm a passionate Frontend Developer from Nepal</h1>
 
 
