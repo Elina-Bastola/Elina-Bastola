@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/Elina-Bastola/Elina-Bastola/blob/main/banner.png.png)
+<div align="center">
+<img height="100%" width="100%" src="https://github.com/Elina-Bastola/Elina-Bastola/blob/main/banner.png.png" alt="MYSELF" />
+</div>
 # 💫 About Me:
 <h1 align="center">Hi 👋! My name is Elina and I'm a passionate Frontend Developer from Nepal</h1>
 
