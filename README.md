@@ -1,14 +1,13 @@
-
+![MasterHead](https://github.com/Elina-Bastola/Elina-Bastola/blob/main/banner.png.png)
 # 💫 About Me:
 <h1 align="center">Hi 👋! My name is Elina and I'm a passionate Frontend Developer from Nepal</h1>
 
 
 <!-- **Elina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
--🌱 I’m currently learning many things, i belive that everyday is a learning opportunity.
--💬 Ask me about JavaScript, React, Nextjs, Tailwind css
--✌️  Enjoy to do programming and sharing knowledge
--❤️  Love to writing code and learning new features
+- 🌱  I’m currently learning many things, i belive that everyday is a learning opportunity.
+- 💬 Ask me about JavaScript, React, Nextjs, Tailwind css
+-  ✌️ &emsp;Enjoy to do programming and sharing knowledge
+- ❤️ &emsp;Love to writing code and learning new features
 
 
 ## 🌐 Socials:
